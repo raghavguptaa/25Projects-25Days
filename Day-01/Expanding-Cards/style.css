@@ -1,49 +1,63 @@
-const progress = document.getElementById('progress')
-const prev = document.getElementById('prev')
-const next = document.getElementById('next')
-const circles = document.querySelectorAll('.circle')
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
-let currentActive = 1
+* {
+  box-sizing: border-box;
+}
 
-next.addEventListener('click', () => {
-    currentActive++
+body {
+  font-family: 'Muli', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
 
-    if(currentActive > circles.length) {
-        currentActive = circles.length
-    }
+.container {
+  display: flex;
+  width: 90vw;
+}
 
-    update()
-})
+.panel {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  border-radius: 50px;
+  color: #fff;
+  cursor: pointer;
+  flex: 0.5;
+  margin: 10px;
+  position: relative;
+  -webkit-transition: all 700ms ease-in;
+}
 
-prev.addEventListener('click', () => {
-    currentActive--
+.panel h3 {
+  font-size: 24px;
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  margin: 0;
+  opacity: 0;
+}
 
-    if(currentActive < 1) {
-        currentActive = 1
-    }
+.panel.active {
+  flex: 5;
+}
 
-    update()
-})
+.panel.active h3 {
+  opacity: 1;
+  transition: opacity 0.3s ease-in 0.4s;
+}
 
-function update() {
-    circles.forEach((circle, idx) => {
-        if(idx < currentActive) {
-            circle.classList.add('active')
-        } else {
-            circle.classList.remove('active')
-        }
-    })
+@media (max-width: 480px) {
+  .container {
+    width: 100vw;
+  }
 
-    const actives = document.querySelectorAll('.active')
-
-    progress.style.width = (actives.length - 1) / (circles.length - 1) * 100 + '%'
-
-    if(currentActive === 1) {
-        prev.disabled = true
-    } else if(currentActive === circles.length) {
-        next.disabled = true
-    } else {
-        prev.disabled = false
-        next.disabled = false
-    }
+  .panel:nth-of-type(4),
+  .panel:nth-of-type(5) {
+    display: none;
+  }
 }
