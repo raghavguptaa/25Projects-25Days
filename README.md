@@ -6,6 +6,7 @@
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-01/Expanding-Cards)                     | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
 | 02  | [Progress Steps](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps)                               | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
+| 03  | [Rotating Navigation Animation](https://github.com/bradtraversy/50projects50days/tree/master/rotating-nav-animation)        | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
 
 
 ## MIT License
