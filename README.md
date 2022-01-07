@@ -7,7 +7,7 @@
 | 01  | [Expanding Cards](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-01/Expanding-Cards)                                    | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
 | 02  | [Progress Steps](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-02/Progress-Steps)                                      | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
 | 03  | [Rotating Navigation Animation](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-03/Rotating-Navigation-Animation)        | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
-| 04  | [Hidden Search Widget]()                          | [Live Demo](https://50projects50days.com/projects/hidden-search-widget/)          |
+| 04  | [Hidden Search Widget](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-04/Hidden%20Search%20Widget)                      | [Live Demo](https://50projects50days.com/projects/hidden-search-widget/)          |
 
 
 ## MIT License
