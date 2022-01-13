@@ -1,4 +1,6 @@
-# 50-Days-50-Projects
+# 50 Projects in 50 Days - HTML/CSS and JavaScript
+
+This is the main repository for all of the projects in the [course](https://www.udemy.com/course/50-projects-50-days/).
 
 
 
