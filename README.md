@@ -1,4 +1,4 @@
-# 50-Days-50-Projects
+# 50 Projects in 50 Days - HTML/CSS and JavaScript
 
 
 
@@ -11,6 +11,7 @@
 | 05  | [Blurry Loading](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-05/Blurry-Loading)                                      | [Live Demo](https://50projects50days.com/projects/blurry-loading/)                |
 | 06  | [Scroll Animation](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-06/Scroll-Animation )                                 | [Live Demo](https://50projects50days.com/projects/scroll-animation/)              |
 | 07  | [Split Landing Page](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-07/Split-Landing-Page)                              | [Live Demo](https://50projects50days.com/projects/split-landing-page/)            |
+| 08  | [Form Wave](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-08/Form-Input-Wave)                                          | [Live Demo](https://50projects50days.com/projects/form-wave/)                     |
 
 
 ## MIT License
