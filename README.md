@@ -1,8 +1,5 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
 
-This is the repository for all of the projects in this [course](https://www.udemy.com/course/50-projects-50-days/).
-
-I would really like to thank [`Mr. Brad Traversy`](https://github.com/bradtraversy) for such an informative course.
 
 
 |  #  | Project                                                                                                                                    | Live Demo                                                                         |
