@@ -14,6 +14,7 @@
 | 08  | [Form Wave](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-08/Form-Input-Wave)                                          | [Live Demo](https://50projects50days.com/projects/form-wave/)                     |
 | 09  | [Sound Board](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-09/Sound-Board)                                            | [Live Demo](https://50projects50days.com/projects/sound-board/)                   |
 | 10  | [Dad Jokes](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-10/Dad-Jokes)                                                | [Live Demo](https://50projects50days.com/projects/dad-jokes/)                     |
+| 11  | [Event Keycodes](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-11/Event-Keynotes)                                      | [Live Demo](https://50projects50days.com/projects/event-keycodes/)                |
   
 
 ## MIT License
