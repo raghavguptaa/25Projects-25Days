@@ -16,6 +16,7 @@
 | 10  | [Dad Jokes](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-10/Dad-Jokes)                                                | [Live Demo](https://50projects50days.com/projects/dad-jokes/)                     |
 | 11  | [Event Keycodes](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-11/Event-Keynotes)                                      | [Live Demo](https://50projects50days.com/projects/event-keycodes/)                |
 | 12  | [Faq Collapse](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-12/FAQ-Collapse)                                          | [Live Demo](https://50projects50days.com/projects/faq-collapse/)                  |
+| 13  | [Random Choice Picker](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-13/Random-Choice-Picker)                          | [Live Demo](https://50projects50days.com/projects/random-choice-picker/)          |
 
 
 ## MIT License
