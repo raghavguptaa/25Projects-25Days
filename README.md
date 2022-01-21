@@ -19,6 +19,7 @@
 | 13  | [Random Choice Picker](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-13/Random-Choice-Picker)                          | [Live Demo](https://50projects50days.com/projects/random-choice-picker/)          |
 | 14  | [Animated Navigation](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-14/Animated-Navigation)                            | [Live Demo](https://50projects50days.com/projects/animated-navigation/)           |
 | 15  | [Incrementing Counter](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-15/Implementing-Counter)                          | [Live Demo](https://50projects50days.com/projects/incrementing-counter/)          |
+| 16  | [Drink Water](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-16/Drink-Water)                                            | [Live Demo](https://50projects50days.com/projects/drink-water/)                   |
 
 
 ## MIT License
