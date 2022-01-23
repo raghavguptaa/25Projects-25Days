@@ -21,6 +21,7 @@
 | 15  | [Incrementing Counter](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-15/Implementing-Counter)                          | [Live Demo](https://50projects50days.com/projects/incrementing-counter/)          |
 | 16  | [Drink Water](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-16/Drink-Water)                                            | [Live Demo](https://50projects50days.com/projects/drink-water/)                   |
 | 17  | [Movie App](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-17/Movie-App)                                                | [Live Demo](https://50projects50days.com/projects/movie-app/)                     |
+| 18  | [Background Slider](https://github.com/raghavguptaa/50Projects-50Days/tree/main/Day-18/Background-Slider)                                  | [Live Demo](https://50projects50days.com/projects/background-slider/)             |
 
 
 ## MIT License
