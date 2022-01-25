@@ -23,6 +23,7 @@
 | 17  | [Movie App](https://github.com/raghavguptaa/50-Days-50-Projects/tree/main/Day-17/Movie-App)                                                | [Live Demo](https://50projects50days.com/projects/movie-app/)                     |
 | 18  | [Background Slider](https://github.com/raghavguptaa/50Projects-50Days/tree/main/Day-18/Background-Slider)                                  | [Live Demo](https://50projects50days.com/projects/background-slider/)             |
 | 19  | [Theme Clock](https://github.com/raghavguptaa/50Projects-50Days/tree/main/Day-19/Theme-Clock)                                              | [Live Demo](https://50projects50days.com/projects/theme-clock/)                   |
+| 20  | [Button Ripple Effect](https://github.com/raghavguptaa/50Projects-50Days/tree/main/Day-20/Button-Ripple-Effect)                            | [Live Demo](https://50projects50days.com/projects/button-ripple-effect/)          |
 
 
 ## MIT License
