@@ -26,6 +26,7 @@
 | 20  | [Button Ripple Effect](https://github.com/raghavguptaa/50Projects-50Days/tree/main/Day-20/Button-Ripple-Effect)                            | [Live Demo](https://50projects50days.com/projects/button-ripple-effect/)          |
 | 21  | [Drag & Drop](https://github.com/raghavguptaa/50Projects-50Days/tree/main/Day-21/Drag-%26-Drop)                                            | [Live Demo](https://50projects50days.com/projects/drag-n-drop/)                   |
 | 22  | [Drawing App](https://github.com/raghavguptaa/50Projects-50Days/tree/main/Day-22/Drawing-App)                                              | [Live Demo](https://50projects50days.com/projects/drawing-app/)                   |
+| 23  | [Kinetic Loader](https://github.com/raghavguptaa/50Projects-50Days/tree/main/Day-23/Kinetic-Loader)                                        | [Live Demo](https://50projects50days.com/projects/kinetic-loader/)                |
 
 
 ## MIT License
